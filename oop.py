@@ -35,3 +35,4 @@ earphones.price = 5000
 print(phone.name)
 print(phone.price)
 print(phone.version)
+print(earphones.price)
