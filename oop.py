@@ -23,7 +23,7 @@ class Item:
 phone = Item()
 phone.name = "Itel6"
 phone.version ="Android 12"
-phone.price = 2000
+phone.price = 200000
 earphones =Item()
 earphones.price = 5000
 
