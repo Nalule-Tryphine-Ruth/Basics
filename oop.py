@@ -2,7 +2,7 @@ print("Store Management System")
 
 item1 = "Phone"
 item1_type = "IPhone"
-item1_price = 300000
+item1_price = 3000000
 item1_quantity = 100
 
 print(item1)
